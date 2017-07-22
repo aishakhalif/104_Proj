@@ -33,10 +33,6 @@ public static void main(String[] args) throws Exception {
     
     {
         System.out.println("Name: Aisha Khalif");
-        System.out.println("Student ID: 32381361");
-        System.out.println("Enrolment Mode: Internal");
-        System.out.println("Tutor Name: Mr. Wayne Muller");
-        System.out.println("Tutorial Day and Time: Monday at 4:30 - 5:30 PM");
         System.out.println("");
         
      }
